@@ -1,11 +1,13 @@
-![welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRhNDZlY2JiZjM4ZGJlMjFkYmM0MjZiN2UwNGI3M2E2ODdmZTc1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ma07Px59IPfQTP9EHM/giphy.gif)
+![](https://user-images.githubusercontent.com/17456800/236660135-b7712596-68b9-4b16-ab77-0654f0f49620.gif)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliveltonferreiradev/)](https://www.linkedin.com/in/eliveltonferreiradev/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5585996375272)](https://wa.me/5585996375272)
 [![Gmail Badge](https://img.shields.io/badge/-eliveltonferreira.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliveltonferreira.dev@gmail.com)](mailto:eliveltonferreira.dev@gmail.com)
 
+<br/>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there!
 <p>
 
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=C95FDD&text_color=718096&bg_color=ffffff00&custom_title=GitHub Stats&title_color=7DB2ED&include_all_commits=true&count_private=true&hide_border=true" alt="eliveltonsf github stats card">
