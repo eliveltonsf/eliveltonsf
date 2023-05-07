@@ -12,9 +12,8 @@
 <br/>
 
 <p>
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=C95FDD&text_color=718096&bg_color=ffffff00&title_color=7DB2ED&include_all_commits=true&count_private=true&hide_border=true" alt="eliveltonsf github stats card">
 
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/eliveltonsf)
 
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
 </p>
