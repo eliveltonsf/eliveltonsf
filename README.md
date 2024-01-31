@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <style>
   fontCustom{
       color:#9E70E6;
@@ -23,12 +22,10 @@
   }
   container{
     display: flex;
-    width:100%
+    width:100%;
+    flex-wrap: wrap
   }
 </style>
-=======
-![ef2](https://user-images.githubusercontent.com/17456800/236693547-e0aabc41-7009-4db8-abf5-b2c2681d891e.gif)
->>>>>>> cacec2315b9f11fc8dbd9e11665bbb05ae685d88
 
 
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
@@ -61,8 +58,4 @@
 
 
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
-<<<<<<< HEAD
  </container>
-=======
-</p>
->>>>>>> cacec2315b9f11fc8dbd9e11665bbb05ae685d88
