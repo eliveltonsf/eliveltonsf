@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap"
+      rel="stylesheet"
+    />
+    <title>Typing Effect CSS</title>
+  </head>
+  <body>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background: rgba(25, 25, 25);
+        background-image: url(./desktop.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      div{
+        padding-top: 190px;
+      }
+
+      .font-size-1{
+        font-size: 2em;
+      }
+      .font-size-2{
+        font-size: 1.3em;
+      }
+      .border-right-default{
+        border-right: 2px solid rgba(255, 255, 255, 0.75);
+      }
+
+      .line {
+        color: rgba(255, 255, 255, 0.75);
+        font-family: "Special Elite", monospace;
+        text-align: center;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      .typing-animation {
+        animation: blinkCursor 500ms steps(40) infinite normal,
+          typing 4s steps(40) 1s normal both,
+          teste 5s ease 5s infinite alternate;
+      }
+
+      @keyframes teste {
+        from {
+        }
+        to {
+          /* border-right: 1px solid rgba(255, 255, 255, 0.75); */
+          border-right: none;
+        }
+      }
+
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+        to {
+          width: 15em;
+        }
+      }
+
+      @keyframes blinkCursor {
+        0% {
+          border-right: 2px solid rgba(255, 255, 255, 0.75);
+        }        
+        100% {
+          border-right: transparent;
+        }
+      }
+
+      .typing-animation-2 {
+        animation: blinkCursor-2  500ms steps(40) 5s infinite normal,
+        typing-2 5s steps(40) 5s normal both,
+        teste2 10s ease 10s infinite alternate;
+      }
+
+      @keyframes teste2 {
+        from {
+        }
+        to {
+          /* border-right: 1px solid rgba(255, 255, 255, 0.75); */
+          border-right: none;
+        }
+      }
+
+      @keyframes typing-2 {
+        from {
+          width: 0;
+        }
+        to {
+          /* border-right: 1px solid rgba(255, 255, 255, 0.75); */
+          width: 50em;
+        }
+      }
+
+      @keyframes blinkCursor-2 {
+        0% {
+          border-right: 2px solid rgba(255, 255, 255, 0.75);
+        }        
+        100% {
+          border-right: transparent;
+        }
+      }
+
+      .typing-animation-3 {
+        animation: blinkCursor-3 500ms steps(40) 10s infinite normal,
+        typing-3 5s steps(40) 10s normal both,
+        teste3 15s ease 15s infinite alternate;
+      }
+
+      @keyframes teste3 {
+        from {
+        }
+        to {
+          /* border-right: 1px solid rgba(255, 255, 255, 0.75); */
+          border-right: none;
+        }
+      }
+
+      @keyframes typing-3 {
+        from {
+          width: 0;
+        }
+        to {
+          width: 55em;
+        }
+      }
+
+      @keyframes blinkCursor-3 {
+        0% {
+          border-right: 2px solid rgba(255, 255, 255, 0.75);
+        }        
+        100% {
+          border-right: transparent;
+        }
+      }
+
+    </style>
+
+    <div>
+      <p class="line font-size-1 typing-animation">Hey, I'm Elivelton Ferreira!</p>
+      <br>
+      <p class="line font-size-2 typing-animation-2">Front-end specialized in web with javascript, and passionate about styling and animation.</p>
+      <br>
+      <p class="line font-size-2 typing-animation-3">Welcome, feel free to review, copy, favorite and contribute to my projects, I will be very grateful. 👇</p>
+    </div>
+
+    
+  </body>
+</html>
