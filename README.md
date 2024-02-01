@@ -1,15 +1,13 @@
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
-  <p style="
-    color: #9E70E6;
-    font-weight: bold;
-    font-size: 1.2rem;
-  ">QUEM SOU</p>
+ <div>
+  <div style=" color: #9E70E6; font-weight: bold; font-size: 1.2rem;">QUEM SOU</div>
  <span style="color:#FFFFFF; font-weight:bold; font-size:3rem; display:block">Elivelton Ferreira</span>
  <span style="color:gray; font-weight:bold; text-transform: uppercase; font-size:1rem">Frontend & Mobile Developer</span>
   <p style="color:gray; font-size: 1rem">
   O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
   </p>
+   </div>
 
  <br/>
 
@@ -21,7 +19,7 @@
 <br/>
 
 
-<div style="display: flex; width:100%; flex-wrap: wrap">
+<div style="display: flex; width: 100%; flex-wrap: wrap">
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=C95FDD&text_color=718096&bg_color=ffffff00&title_color=7DB2ED&include_all_commits=true&count_private=true&hide_border=true" alt="eliveltonsf github stats card">
 
 
