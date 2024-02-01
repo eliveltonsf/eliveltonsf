@@ -1,8 +1,9 @@
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
 <font color="9E70E6">QUEM SOU</font>
- <p style="font-weight:bold"> Elivelton Ferreira</p>
- <p style="color:gray; font-weight:bold; text-transform: uppercase; font-size:1rem">Frontend & Mobile Developer</p>
+ <p style="font-weight:bold">ELIVELTON FERREIRA</p>
+ <font color="GRAY">FRONTEND & MOBILE DEVELOPER</font>
+  <br/>
   <p style="color:gray; font-size: 1rem">
   O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
   </p>
