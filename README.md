@@ -1,7 +1,7 @@
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
  <div>
-  <div style=" color: #9E70E6; font-weight: bold; font-size: 1.2rem;">QUEM SOU</div>
+  <div style="color: red; font-weight: bold; font-size: 1.2rem;">QUEM SOU</div>
  <span style="color:#FFFFFF; font-weight:bold; font-size:3rem; display:block">Elivelton Ferreira</span>
  <span style="color:gray; font-weight:bold; text-transform: uppercase; font-size:1rem">Frontend & Mobile Developer</span>
   <p style="color:gray; font-size: 1rem">
