@@ -1,10 +1,54 @@
- <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css">
+
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+  .fontCustom{
+      color:#9E70E6;
+      font-weight:bold;
+      font-size: 1.2rem
+    }
+  .fontName{
+      color:#FFF;
+      font-weight:bold;
+      font-size: 3rem
+  }
+  .fontSubtitle{
+      color:gray;
+      font-weight:bold;
+      text-transform: uppercase;
+      font-size: 1rem;
+  }
+  .fontDescription{
+      color:gray;
+      font-size: 1rem;
+  }
+  .container{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap
+  }
+</style>
+
+<main class="markdown-body">
+	<img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
  <div>
-  <div style="color: red; font-weight: bold; font-size: 1.2rem;">QUEM SOU</div>
- <span style="color:#FFFFFF; font-weight:bold; font-size:3rem; display:block">Elivelton Ferreira</span>
+ <p class="fontCustom" >QUEM SOU</p>
+ <p class="fontName">Elivelton Ferreira</p>
  <span style="color:gray; font-weight:bold; text-transform: uppercase; font-size:1rem">Frontend & Mobile Developer</span>
-  <p style="color:gray; font-size: 1rem">
+<p class="fontDescription">
   O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
   </p>
    </div>
@@ -25,3 +69,6 @@
 
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
  </div>
+</main>
+
+ 
