@@ -1,6 +1,6 @@
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
-<p style="color: #9E70E6; font-weight: bold; font-size: 1.2rem;">QUEM SOU</p>
+<p style="color: #9E70E6">QUEM SOU</p>
  <p style="color:#FFFFFF; font-weight:bold; font-size:3rem; display:block">Elivelton Ferreira</p>
  <p style="color:gray; font-weight:bold; text-transform: uppercase; font-size:1rem">Frontend & Mobile Developer</p>
   <p style="color:gray; font-size: 1rem">
