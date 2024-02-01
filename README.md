@@ -1,7 +1,8 @@
 <img src="https://uploaddeimagens.com.br/images/004/729/140/original/Frame_4.png?1706805734" height="100px">  
 
-<br/>
-<p style="font-weight:bold">FRONTEND & MOBILE DEVELOPER</p>
+
+### FRONTEND & MOBILE DEVELOPER
+
 <p style="color:gray">
 O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
 </p>
