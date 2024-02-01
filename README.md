@@ -1,26 +1,25 @@
 <style>
-  fontCustom{
+  .fontCustom{
       color:#9E70E6;
       font-weight:bold;
       font-size: 1.2rem
   }
-  fontName{
+  .fontName{
       color:#FFF;
       font-weight:bold;
       font-size: 3rem
   }
-  fontSubtitle{
+  .fontSubtitle{
       color:gray;
       font-weight:bold;
       text-transform: uppercase;
       font-size: 1rem;
   }
-  fontDescription{
+  .fontDescription{
       color:gray;
       font-size: 1rem;
-      width: 50%;
   }
-  container{
+  .container{
     display: flex;
     width:100%;
     flex-wrap: wrap
@@ -30,16 +29,16 @@
 
  <img src="https://eliveltonsf.github.io/eliveltonferreira/profile.png" width="100px" height="100px" absolute>   
  <br/>
- <fontCustom >QUEM SOU</fontCustom>
+ <p class="fontCustom" >QUEM SOU</p>
   <br/>
- <fontName>Elivelton Ferreira</fontName>
+ <p class="fontName">Elivelton Ferreira</p>
   <br/>
- <fontSubtitle>Frontend & Mobile Developer</fontSubtitle>
+ <p class="fontSubtitle">Frontend & Mobile Developer</p>
  <br/>
 
-  <fontDescription>
+  <p class="fontDescription">
   O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
-  </fontDescription>
+  </p>
 
   
 
@@ -53,9 +52,10 @@
 
 <br/>
 
- <container>
+
+  <div class="container">
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=C95FDD&text_color=718096&bg_color=ffffff00&title_color=7DB2ED&include_all_commits=true&count_private=true&hide_border=true" alt="eliveltonsf github stats card">
 
 
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
- </container>
+ </div>
