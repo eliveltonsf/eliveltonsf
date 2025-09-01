@@ -1,5 +1,3 @@
-<img src="https://uploaddeimagens.com.br/images/004/729/140/original/Frame_4.png?1706805734" height="100px">  
-
 
 ### FRONTEND & MOBILE DEVELOPER
 
