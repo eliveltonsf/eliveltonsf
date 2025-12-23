@@ -1,5 +1,5 @@
 
-### FRONTEND & MOBILE DEVELOPER
+### FULLSTACK AND MOBILE DEVELOPER
 
 <p style="color:gray">
 What motivates me is my relentless pursuit of challenges that allow me to learn and grow continuously. I love collaborating in innovative teams and working on projects that make us better with every line of code. My goal is to continue improving my React skills and developing web and mobile solutions that offer an exceptional user experience.
