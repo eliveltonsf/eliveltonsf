@@ -12,12 +12,4 @@ O que me motiva é a minha busca incessante por desafios que me permitam aprende
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-9E70E6?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5585996375272)](https://wa.me/5585996375272)
 [![Gmail Badge](https://img.shields.io/badge/-elivelton.seven@gmail.com-9E70E6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elivelton.seven@gmail.com)](mailto:elivelton.seven@gmail.com)
 
-<br/>
 
-
-<div style="display: flex; width: 100%; flex-wrap: wrap">
- <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=eliveltonsf&show_icons=true&icon_color=C95FDD&text_color=718096&bg_color=ffffff00&title_color=7DB2ED&include_all_commits=true&count_private=true&hide_border=true" alt="eliveltonsf github stats card">
-
-
- <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonsf&layout=compact&icon_color=805AD5&text_color=718096&title_color=7DB2ED&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt="eliveltonsf most used languages">
-</div>
