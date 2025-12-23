@@ -2,7 +2,7 @@
 ### FRONTEND & MOBILE DEVELOPER
 
 <p style="color:gray">
-O que me motiva é a minha busca incessante por desafios que me permitam aprender e crescer continuamente. Adoro colaborar em equipes inovadoras e trabalhar em projetos que nos tornam melhores a cada linha de código. Meu objetivo é continuar aprimorando minhas habilidades em React e desenvolver soluções web e mobile que ofereçam uma experiência de usuário excepcional.
+What motivates me is my relentless pursuit of challenges that allow me to learn and grow continuously. I love collaborating in innovative teams and working on projects that make us better with every line of code. My goal is to continue improving my React skills and developing web and mobile solutions that offer an exceptional user experience.
 </p>
 
 <br/>
